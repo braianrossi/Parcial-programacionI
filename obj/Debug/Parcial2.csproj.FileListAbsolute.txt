@@ -1,0 +1,22 @@
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.frmCandidatos.resources
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+D:\UTN\ProgramacionI\2023\1Cuatrimestre\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.frmCandidatos.resources
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\alumno\Desktop\Parcial2 Rossi Braian Alexis-114080\Parcial2\bin\Debug\Parcial2.pdb
